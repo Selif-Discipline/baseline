@@ -1,0 +1,4 @@
+server:
+  port: 8786
+  servlet:
+    context-path: /baseline
